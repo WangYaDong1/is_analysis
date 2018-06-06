@@ -1,18 +1,18 @@
 ## 1.系统层次结构
 
-![系统层次结构图](C:\Users\Administrator\Desktop\test6\系统层次结构图.png)
+![系统层次结构图](./系统层次结构图.png)
 
 ## 2.界面设计
 
-![登陆后主界面](C:\Users\Administrator\Desktop\test6\ui\登陆后主界面.png)
+![登陆后主界面](./ui/登陆后主界面.png)
 
 ## 3.用例图设计  [源码](./src/系统用例源码.puml)
 
-![综合实验平台用例图](C:\Users\Administrator\Desktop\test6\综合实验平台用例图.png)
+![综合实验平台用例图](./综合实验平台用例图.png)
 
 ## 4.类图设计  [源码](./src/系统类图源码.puml)
 
-![综合实验平台类图](C:\Users\Administrator\Desktop\test6\综合实验平台类图.png)
+![综合实验平台类图](./综合实验平台类图.png)
 
 ## 5.数据库设计
 
