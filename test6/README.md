@@ -2,9 +2,9 @@
 
 ![系统层次结构图](./系统层次结构图.png)
 
-## 2.界面设计
+## 2.界面设计[https://WangYaDong1.github.com/is_analysis/test6/ui/index.html](https://WangYaDong1.github.com/is_analysis/test6/ui/index.html)
 
-![登陆后主界面](./ui/登陆后主界面.png)
+
 
 ## 3.用例图设计  [源码](./src/系统用例源码.puml)
 
