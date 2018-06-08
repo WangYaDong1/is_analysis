@@ -2,7 +2,9 @@
 
 ![系统层次结构图](./系统层次结构图.png)
 
-## 2.界面设计[https://github.com/WangYaDong1/is_analysis/blob/master/test6/ui/index.html](https://github.com/WangYaDong1/is_analysis/blob/master/test6/ui/index.html)
+## 2.界面设计
+
+## [https://WangYaDong1.github.io/is_analysis/test6/ui/index.html](https://WangYaDong1.github.io/is_analysis/test6/ui/index.html) 
 
 
 
